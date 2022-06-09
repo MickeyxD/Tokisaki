@@ -1,5 +1,5 @@
 ![Miku](https://telegra.ph/file/bc219808c6d888fc72260.jpg)
-# 𝓜𝓲𝓴𝓾 𝓝𝓪𝓴𝓪𝓷𝓸
+# 𝐓ᴏᴋɪsᴀᴋɪ 𝐊ᴜʀᴜᴍɪ
 <h3 align="center"> 
     A Modular Telegram Python Bot Running On Python3 With Mongo DB, Sqlalchemy, Redis Database.
 </h3>
@@ -8,13 +8,13 @@
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
     </a>
-<a href="https://GitHub.com/h0daka">
+<a href="https://GitHub.com/MickeyxD">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a>
 <img src="https://img.shields.io/badge/python-3.10.1-green?style=for-the-badge&logo=appveyor" alt="Python Version">
 <img src="https://img.shields.io/badge/Telethon-1.24.0-yellow?style=for-the-badge&logo=appveyor" alt="Telethon Version">
 <img src="https://img.shields.io/badge/Pyrogram-1.4.1-red?style=for-the-badge&logo=appveyor" alt="Pyrogram Version">
-<a href="https://github.com/h0daka/Miku-Nakano"> <img src="https://img.shields.io/github/repo-size/h0daka/Miku-Nakano?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/MickeyxD/Tokisaki"> <img src="https://img.shields.io/github/repo-size/h0daka/Miku-Nakano?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 ###  ╒═══「 Status 」
 
@@ -27,13 +27,13 @@
 + [x] Heroku Deploy
 + [x] Docker/Local Machine
 
-╘══「 Can be found on telegram as [Miku Nakano](https://t.me/Mikuxprobot) 」
+╘══「 Can be found on telegram as [𝐓ᴏᴋɪsᴀᴋɪ 𝐊ᴜʀᴜᴍɪ](https://t.me/TokisakiXRobot) 」
 
-![Miku](https://telegra.ph/file/9d78988131658606a3d57.jpg)
+![𝐓ᴏᴋɪsᴀᴋɪ](https://telegra.ph/file/9d78988131658606a3d57.jpg)
 
 ### ╒═══「 Creator Info/Credits 」
 
-+  [Hodaka](https://github.com/h0daka) : OWNER | DEV
++  [MickeyxD](https://github.com/MickeyxD) : OWNER | DEV
 +  [Rajkumar](https://github.com/Awesome-RJ) : BASE
 +  [Hirojazz](https://github.com/Hirojazz) : BASE
 +  [Dank-del](https://github.com/Dank-del) : BASE 
