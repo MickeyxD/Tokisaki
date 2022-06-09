@@ -82,7 +82,7 @@ buttons = [
     [
                         InlineKeyboardButton(
                              text="🎗️ Summon Me",
-                             url="https://t.me/MikuXProBot?startgroup=true"),
+                             url="https://t.me/Tokisaki_Robot?startgroup=true"),
                     ],
                    [                  
                        InlineKeyboardButton(
@@ -99,12 +99,12 @@ ABOUT1 = """
 """
 
 ABOUT2 = """
-*‣ Miku support chats*\nJoin My Support Group/Channel for see for report a problem on Miku.
+*‣ Tokisaki support chats*\nJoin My Support Group/Channel for see for report a problem on Tokisaki.
 """
 
 REPO_TXT = """
 *‣ Dev:*
-• [нσ∂αкα°δ](t.me/h0daka)
+• [MickeyxD](t.me/MickeyxD)
 \n*‣ Note:* 
 • If You're Going To Fork This Repo Then Don't Forget To Give a Star 🌟
 • Report Any Bugs On Source Code At [Support](t.me/Mikuxsupport)
@@ -121,7 +121,7 @@ ABOUT3 = """Hello [{}](tg://user?id={}), My name is *{}*. A Powerful Telegram Gr
             \n\n*If you have any Question, You can join Support Chat. My Developer Team will Answer. Check Support Button Below*"""
 
 HELP_STRINGS = """
-Hey [{}](tg://user?id={}) your *Miku* is here! 
+Hey [{}](tg://user?id={}) your *Tokisaki* is here! 
 I Help Admins To Manage Their Groups! 
 Main commands available :
  ‣ /help: PM's you this message.
@@ -318,10 +318,10 @@ def start(update: Update, context: CallbackContext):
                   [                  
                        InlineKeyboardButton(
                              text="🚑 Support",
-                             url="t.me/Mikuxsupport"),
+                             url="t.me/TokisakiSupportChat"),
                        InlineKeyboardButton(
                              text="📢 Updates",
-                             url="t.me/MikuXUpdates")
+                             url="t.me/TokisakiUpdates")
                      ] 
                 ]
             ),
