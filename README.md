@@ -27,7 +27,7 @@
 + [x] Heroku Deploy
 + [x] Docker/Local Machine
 
-╘══「 Can be found on telegram as [𝐓ᴏᴋɪsᴀᴋɪ 𝐊ᴜʀᴜᴍɪ](https://t.me/TokisakiXRobot) 」
+╘══「 Can be found on telegram as [𝐓ᴏᴋɪsᴀᴋɪ 𝐊ᴜʀᴜᴍɪ](https://t.me/Tokisaki_Robot) 」
 
 ![𝐓ᴏᴋɪsᴀᴋɪ](https://telegra.ph/file/9d78988131658606a3d57.jpg)
 
@@ -46,7 +46,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 
 ### ╒═══「 Support Group 」 
 
-The Support group can be reached out to at [Miku • Support](https://t.me/MikusSupport), where you can ask for help about [Miku Nakano](https://t.me/Mikuxprobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [𝐓ᴏᴋɪsᴀᴋɪ • Support](https://t.me/TokisakiSupport), where you can ask for help about [𝐓ᴏᴋɪsᴀᴋɪ 𝐊ᴜʀᴜᴍɪ](https://t.me/Tokisaki_Robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
 	<summary>Heroku Deploy</summary>
@@ -57,7 +57,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/h0daka/Miku-Nakano">
+        <a href="https://heroku.com/deploy?template=https://github.com/MickeyxD/Tokisaki>
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
@@ -74,14 +74,14 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 </p>
 
 ```console
-    ~$ git clone https://github.com/h0daka/Miku-Nakano
-    ~$ cd Miku-Nakano
+    ~$ git clone https://github.com/MickeyxD/Tokisaki
+    ~$ cd Tokisaki
     ~$ cp sample_config.py config.py
 ```
 
 Edit Config.py with your own Values
 
-Start with ```python -m MikuXProBot```
+Start with ```python -m Tokisaki_Robot```
 
 </details>    
 
